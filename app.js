@@ -27,4 +27,4 @@ const factorial = (myNum) => {
     }
     return factorial
 }
-console.log(factorial(5)) 
+console.log(factorial(6)) 
